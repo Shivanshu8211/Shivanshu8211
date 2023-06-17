@@ -23,3 +23,9 @@ With a strong academic background and hands-on experience, I have a deep underst
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Mysql Badge](https://img.shields.io/badge/-MySQL-61DB21?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu8211&show_icons=true&locale=en&layout=compact" alt="shivanshu8211" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanshu8211&show_icons=true&locale=en" alt="shivanshu8211" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanshu8211&" alt="shivanshu8211" /></p>
