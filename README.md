@@ -4,7 +4,7 @@ AI Scholar | Machine Learning and Computer Vision Enthusiast
 
 Hello! I'm Shivanshu, an AI scholar from the prestigious Indian Institute of Technology Hyderabad. I specialize in machine learning and computer vision, and I'm passionate about leveraging artificial intelligence to drive innovation.
 
-With a strong academic background and hands-on experience, I have a deep understanding of AI concepts and programming languages like Python and CPP. I have implemented cutting-edge algorithms and models of Machi e learning as well as Deep learning.
+With a solid academic background and hands-on experience, I have a deep understanding of AI concepts and programming languages like Python and CPP. I have implemented cutting-edge algorithms and models of machine learning as well as Deep learning.
 
 :mailbox: Reach me out!
 
@@ -13,10 +13,10 @@ With a strong academic background and hands-on experience, I have a deep underst
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working at Gauth Expert
-- 🤔 I’m looking for an Intership.
+- 🤔 I’m looking for an internship.
 - 📫 How to reach me: ai21btech11027@iith.ac.in
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 😄 Pronouns: Shiva, Legion.
+- ⚡ Fun fact: I often play games and go to the gym.
 
 #### Known Techs
 
