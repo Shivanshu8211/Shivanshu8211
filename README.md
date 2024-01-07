@@ -12,11 +12,11 @@ With a solid academic background and hands-on experience, I have a deep understa
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at Gauth Expert
+- 🏆 Awarded prestigious Entrepreneur in Residence (EIR) Fellowship at TiHAN-IITH, IIT Hyderabad.
 - 🤔 I’m looking for an internship.
 - 📫 How to reach me: ai21btech11027@iith.ac.in
 - 😄 Pronouns: Shiva, Legion.
-- ⚡ Fun fact: I often play games and go to the gym.
+- ⚡ Hobby: I often play games and go to the gym.
 
 #### Known Techs
 
