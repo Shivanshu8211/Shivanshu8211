@@ -8,7 +8,7 @@ With a solid academic background and hands-on experience, I have a deep understa
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivanshu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshu-033428269/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/) [![Mail Badge](https://img.shields.io/badge/-ai21btech11027@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ai21btech11027@iith.ac.in)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivanshu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshu-0596262b9/) [![Mail Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/) [![Mail Badge](https://img.shields.io/badge/-ai21btech11027@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ai21btech11027@iith.ac.in)
 
 <!-- TODO: Add last video link -->
 
