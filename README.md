@@ -13,7 +13,7 @@ With a solid academic background and hands-on experience, I have a deep understa
 <!-- TODO: Add last video link -->
 
 - 🏆 Awarded prestigious Entrepreneur in Residence (EIR) Fellowship at TiHAN-IITH, IIT Hyderabad.
-- 🤔 I’m looking for an internship.
+- 🏢 I worked as an AI-ML intern at Lastmile Robotics Pvt Ltd.
 - 📫 How to reach me: ai21btech11027@iith.ac.in
 - 😄 Pronouns: Shiva, Legion.
 - ⚡ Hobby: I often play games and go to the gym.
@@ -22,7 +22,7 @@ With a solid academic background and hands-on experience, I have a deep understa
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Mysql Badge](https://img.shields.io/badge/-MySQL-61DB21?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61DBFB)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#) [![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Mysql Badge](https://img.shields.io/badge/-MySQL-61DB21?style=for-the-badge&labelColor=black&logo=mysql&logoColor=61DBFB)](#) [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#) [![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)](#) [![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)](#) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#) [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](#)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu8211&show_icons=true&locale=en&layout=compact" alt="shivanshu8211" /></p>
 
